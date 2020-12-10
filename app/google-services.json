@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "540786449657",
+    "project_id": "bulls-eye-297901",
+    "storage_bucket": "bulls-eye-297901.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:540786449657:android:8b9038793166e4fb259628",
+        "android_client_info": {
+          "package_name": "com.project.bullseye"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "540786449657-0tuu488fc6k660o2uqdq500dc80t3itd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhQ3Aphp80X3Ihv8kNTGdIb84XE_29y-A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "540786449657-0tuu488fc6k660o2uqdq500dc80t3itd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
